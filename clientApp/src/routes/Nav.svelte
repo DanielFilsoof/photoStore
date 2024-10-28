@@ -19,7 +19,7 @@
   <header class="sticky top-0 z-50 w-full bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white shadow-lg">
     <div class="container mx-auto px-4 py-2 flex items-center justify-between">
       <a href="/" class="text-2xl font-bold tracking-tight hover:text-yellow-300 transition-colors duration-300">
-        Photo Store
+        Private Photo Store
       </a>
       <nav class="hidden md:flex space-x-6 text-sm font-medium">
         {#each routes as route}
