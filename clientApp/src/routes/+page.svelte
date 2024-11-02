@@ -6,7 +6,7 @@
   <main class="h-[75vh] bg-gradient-to-br from-purple-100 to-pink-100 flex items-center justify-center p-4">
     <div class="w-full max-w-4xl grid gap-8 md:grid-cols-2">
       <a
-        href="/photos"
+        href="/gallery"
         class="group relative overflow-hidden rounded-2xl shadow-lg transition-transform duration-300 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-yellow-300"
         transition:fade={{ duration: 300, easing: cubicOut }}
       >

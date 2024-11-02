@@ -6,7 +6,7 @@
   
     const routes = [
       { name: "Home", path: "/" },
-      { name: "Photos", path: "/photos" },
+      { name: "Photo Gallery", path: "/gallery" },
       { name: "Add Photos", path: "/add-photos" },
       { name: "About", path: "/about" },
     ];
