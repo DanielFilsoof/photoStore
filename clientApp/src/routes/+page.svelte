@@ -18,7 +18,7 @@
       </a>
       
       <a
-        href="/add-photos"
+        href="/upload"
         class="group relative overflow-hidden rounded-2xl shadow-lg transition-transform duration-300 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-yellow-300"
         transition:fade={{ duration: 300, easing: cubicOut, delay: 150 }}
       >
